@@ -1,0 +1,49 @@
+.home-professor, .home-aluno {
+	#content {
+		margin-top: 50px !important;
+	    max-width: 800px;
+	    width: 100%;
+	    margin: auto;
+
+		#primary {
+			text-align: center;
+			
+			.projeto {
+				
+				h3 {
+					font-size: 18px !important;
+				}
+				background: rgb(224, 224, 224);
+				min-height: 230px;
+				vertical-align:top;
+				word-wrap: break-word;
+				margin: 0 20px;
+				width: 40%;
+				display: inline-block;
+				margin-bottom: 50px;
+
+				.entry-header {
+					padding: 0 30px;
+					text-align: left;
+				}
+
+				.entry-content {
+					padding: 0 30px;
+					text-align: left;
+
+					.content {
+						margin-top: 20px;
+						height: 44px;
+    					overflow: hidden;
+					}
+
+					.entrar {
+						padding: 20px 0px;
+					}
+				}
+			}
+		}
+	}
+
+}
+	

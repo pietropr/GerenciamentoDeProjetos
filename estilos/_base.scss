@@ -1,0 +1,69 @@
+form {
+	input {
+		&.nome {
+			width: 50% !important;
+			float: left;
+		}
+
+		&.cpf {
+			width: 47% !important;
+			margin-left: 10px !important;
+			float: left;
+			margin-bottom: 10px !important;
+		}
+
+		&.telefone {
+		    width: 50% !important;
+		    float: left;
+		}
+
+		&.cidade {
+		    width: 47% !important;
+		    margin-left: 10px !important;
+		    float: left;
+		    margin-bottom: 10px !important;
+		}
+
+		&.estado {
+ 			width: 47% !important;
+		    margin-left: 10px !important;
+		    float: left;
+		    margin-bottom: 10px !important;
+		}
+
+		&.email {
+ 			width: 50% !important;
+		    float: left;
+		}
+
+
+		&.senha {
+ 			width: 45% !important;
+		    float: left;
+		    margin-bottom: 10px !important;
+		}
+
+		&.repete {
+ 			width: 52% !important;
+ 			margin-left: 10px;
+		    float: left;
+		}
+	}
+}
+
+p {
+	word-wrap: break-word !important;
+}
+
+
+
+.jumbotron {
+	margin-top: 15vh !important;
+	h1 {
+		padding-left: 30px !important;
+	}
+
+	p {
+		padding-left: 30px !important;
+	}
+}

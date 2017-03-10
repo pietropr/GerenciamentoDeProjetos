@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'GoboldUplowItalic-Italic';
+  src: url('GoboldUplowItalic-Italic.eot?#iefix') format('embedded-opentype'),  url('GoboldUplowItalic-Italic.woff') format('woff'), url('GoboldUplowItalic-Italic.ttf')  format('truetype'), url('GoboldUplowItalic-Italic.svg#GoboldUplowItalic-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'HarbellPersonalUseOnly';
+  src: url('HarbellPersonalUseOnly.eot?#iefix') format('embedded-opentype'),  url('HarbellPersonalUseOnly.woff') format('woff'), url('HarbellPersonalUseOnly.ttf')  format('truetype'), url('HarbellPersonalUseOnly.svg#HarbellPersonalUseOnly') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lato-Light';
+  src: url('Lato-Light.eot?#iefix') format('embedded-opentype'),  url('Lato-Light.woff') format('woff'), url('Lato-Light.ttf')  format('truetype'), url('Lato-Light.svg#Lato-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MavenProBold';
+  src: url('MavenProBold.eot?#iefix') format('embedded-opentype'),  url('MavenProBold.woff') format('woff'), url('MavenProBold.ttf')  format('truetype'), url('MavenProBold.svg#MavenProBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MavenProRegular';
+  src: url('MavenProRegular.eot?#iefix') format('embedded-opentype'),  url('MavenProRegular.woff') format('woff'), url('MavenProRegular.ttf')  format('truetype'), url('MavenProRegular.svg#MavenProRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NexaBold';
+  src: url('NexaBold.eot?#iefix') format('embedded-opentype'),  url('NexaBold.otf')  format('opentype'),
+         url('NexaBold.woff') format('woff'), url('NexaBold.ttf')  format('truetype'), url('NexaBold.svg#NexaBold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NexaHeavy';
+  src: url('NexaHeavy.eot?#iefix') format('embedded-opentype'),  url('NexaHeavy.otf')  format('opentype'),
+         url('NexaHeavy.woff') format('woff'), url('NexaHeavy.ttf')  format('truetype'), url('NexaHeavy.svg#NexaHeavy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NexaLight';
+  src: url('NexaLight.eot?#iefix') format('embedded-opentype'),  url('NexaLight.otf')  format('opentype'),
+         url('NexaLight.woff') format('woff'), url('NexaLight.ttf')  format('truetype'), url('NexaLight.svg#NexaLight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

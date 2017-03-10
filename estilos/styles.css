@@ -1,0 +1,28 @@
+@import url(fonts/fonts.css);
+body #masthead p.bem-vindo { margin: 11px !important; }
+
+form input.nome { width: 50% !important; float: left; }
+form input.cpf { width: 47% !important; margin-left: 10px !important; float: left; margin-bottom: 10px !important; }
+form input.telefone { width: 50% !important; float: left; }
+form input.cidade { width: 47% !important; margin-left: 10px !important; float: left; margin-bottom: 10px !important; }
+form input.estado { width: 47% !important; margin-left: 10px !important; float: left; margin-bottom: 10px !important; }
+form input.email { width: 50% !important; float: left; }
+form input.senha { width: 45% !important; float: left; margin-bottom: 10px !important; }
+form input.repete { width: 52% !important; margin-left: 10px; float: left; }
+
+p { word-wrap: break-word !important; }
+
+.jumbotron { margin-top: 15vh !important; }
+.jumbotron h1 { padding-left: 30px !important; }
+.jumbotron p { padding-left: 30px !important; }
+
+.home-professor #content, .home-aluno #content { margin-top: 50px !important; max-width: 800px; width: 100%; margin: auto; }
+.home-professor #content #primary, .home-aluno #content #primary { text-align: center; }
+.home-professor #content #primary .projeto, .home-aluno #content #primary .projeto { background: #e0e0e0; min-height: 230px; vertical-align: top; word-wrap: break-word; margin: 0 20px; width: 40%; display: inline-block; margin-bottom: 50px; }
+.home-professor #content #primary .projeto h3, .home-aluno #content #primary .projeto h3 { font-size: 18px !important; }
+.home-professor #content #primary .projeto .entry-header, .home-aluno #content #primary .projeto .entry-header { padding: 0 30px; text-align: left; }
+.home-professor #content #primary .projeto .entry-content, .home-aluno #content #primary .projeto .entry-content { padding: 0 30px; text-align: left; }
+.home-professor #content #primary .projeto .entry-content .content, .home-aluno #content #primary .projeto .entry-content .content { margin-top: 20px; height: 44px; overflow: hidden; }
+.home-professor #content #primary .projeto .entry-content .entrar, .home-aluno #content #primary .projeto .entry-content .entrar { padding: 20px 0px; }
+
+.home-aluno .interesse input { margin: 20px !important; }
